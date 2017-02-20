@@ -1,0 +1,21 @@
+[
+	{
+		"_id": "co-01",
+		"_parentId": "course",
+		"_type": "page",
+		"_classes": "p-module1",
+		"title": "MediaSpectrum",
+		"displayTitle": "MediaSpectrum",
+		"pageBody": "",
+		"body": "",
+		"_graphic": {
+			"src": "course/en/images/module1/menupage_thumbnail_module1.jpg",
+			"alt": "Module 1"
+		},
+		"linkText": "View",
+		"duration": "20 mins",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	}
+]

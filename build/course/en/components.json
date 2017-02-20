@@ -1,0 +1,84 @@
+[
+{
+		"_id": "c-01",
+		"_parentId": "b-01",
+		"_type": "component",
+		"_component": "graphic",
+		"_classes": "c-center-align",
+		"_layout": "full",
+		"title": "News Limited eProofs",
+		"displayTitle": "News Limited eProofs",
+		"body": "<p>This module is designed to help you to understand the potential of eProofs</p><strong>Scroll down to continue.</strong>",
+		"instruction": "",
+		"_graphic": {
+			"large": "course/en/images/transparent.gif",
+			"small": "",
+			"alt": "",
+			"attribution": ""
+		},
+		"_pageLevelProgress": {
+			"_isEnabled": false
+		}
+	},
+	{
+		"_id": "c-02",
+		"_parentId": "b-02",
+		"_type": "component",
+		"_component": "media",
+		"_classes": "c-video",
+		"_layout": "full",
+		"_comment": "_setCompletionOn = inview | play | ended",
+		"_setCompletionOn": "play",
+		"_useClosedCaptions": false,
+		"_allowFullScreen": true,
+		"title": "",
+		"displayTitle": "",
+		"body": "",
+		"instruction": "Watch the video and then access the downloadable PDF 'How To' guides using the tabs below.",
+		"_customLink_comment":"ADDED By PRADIP - NetX Technologies, Aus - 13 Feb 2016",
+		"_customLink":"c-03",
+		"_media": {
+			"mp4": "course/en/video/mediaspectrum.mp4",
+			"poster": "course/en/video/mediaspectrum_videoStill.jpg",
+			"cc": [{
+				"srclang": "",
+				"src": ""
+			}]
+		},
+		"_transcript": {
+			"_inlineTranscript": false,
+			"_externalTranscript": false,
+			"inlineTranscriptButton": "Transcript",
+			"inlineTranscriptCloseButton": "Close Transcript",
+			"inlineTranscriptBody": "Transcript body text should go here",
+			"transcriptLinkButton": "Transcript",
+			"transcriptLink": ""
+		},
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+
+	}, 
+	
+	{
+		"_id": "c-03",
+		"_parentId": "b-03",
+		"_type": "component",
+		"_component": "graphic",
+		"_classes": "pdf-link",
+		"_layout": "full",
+		"title": "",
+		"displayTitle": "",
+		"body": "<a href='course/en/documents/What_is_eProofs.pdf' class='glow' data-glow-on='12' data-glow-off='38' target='_blank'>What is eProofs?</a><a href='course/en/documents/Logging_on_to_eProofs.pdf' class='glow' data-glow-on='40' data-glow-off='68' target='_blank'>Logging on</a><a href='course/en/documents/Searching_in_eProofs.pdf' class='glow' data-glow-on='70' data-glow-off='98' target='_blank'>Searching</a><a href='course/en/documents/Uploading_Press_Ready_Ads_to_eProofs.pdf' class='glow' data-glow-on='100' data-glow-off='126' target='_blank'>Uploading Press Ready Ads</a><a href='course/en/documents/Uploading_Components_to_eProofs.pdf' class='glow' data-glow-on='128' data-glow-off='143' target='_blank'>Uploading Components</a><a href='course/en/documents/Making_Comments_in_eProofs.pdf' class='glow' data-glow-on='145' data-glow-off='153' target='_blank'>Making Comments</a><a href='course/en/documents/Sending_a_Brief.pdf' class='glow' data-glow-on='155' data-glow-off='163' target='_blank'>Sending a Brief</a><a href='course/en/documents/Proofing_Ads_in_eProofs.pdf' class='glow' data-glow-on='165' data-glow-off='178' target='_blank'>Proofing Ads</a><a href='course/en/documents/Approving_Ads_in_eProofs.pdf' class='glow' data-glow-on='180' data-glow-off='198' target='_blank'>Approving Ads</a><a href='course/en/documents/What_happens_at_the_other_end.pdf' class='glow' data-glow-on='200' data-glow-off='215' target='_blank'>What happens at the other end?</a>",
+		"instruction": "",
+		"_graphic": {
+			"large": "course/en/images/transparent.gif",
+			"small": "",
+			"alt": "",
+			"attribution": ""
+		},
+		"_pageLevelProgress": {
+			"_isEnabled": false
+		}
+	}
+]
